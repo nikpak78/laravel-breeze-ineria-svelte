@@ -1,0 +1,271 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.43b7aeae.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/About.svelte",
+      "resources/js/Pages/Auth/ConfirmPassword.svelte",
+      "resources/js/Pages/Auth/ForgotPassword.svelte",
+      "resources/js/Pages/Auth/Login.svelte",
+      "resources/js/Pages/Auth/Register.svelte",
+      "resources/js/Pages/Auth/ResetPassword.svelte",
+      "resources/js/Pages/Auth/VerifyEmail.svelte",
+      "resources/js/Pages/Categories/Index.svelte",
+      "resources/js/Pages/Categories/Show.svelte",
+      "resources/js/Pages/Dashboard.svelte",
+      "resources/js/Pages/Links/Index.svelte",
+      "resources/js/Pages/Posts/Create.svelte",
+      "resources/js/Pages/Posts/Index.svelte",
+      "resources/js/Pages/Posts/Show.svelte",
+      "resources/js/Pages/Welcome.svelte"
+    ],
+    "css": [
+      "assets/app.0357ca0a.css"
+    ]
+  },
+  "resources/js/Pages/About.svelte": {
+    "file": "assets/About.69c45bb3.js",
+    "src": "resources/js/Pages/About.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.da906620.js",
+      "_ApplicationLogo.31531ae0.js",
+      "_link.4bd505ab.js",
+      "_InertiaLink.70d82a1a.js"
+    ],
+    "css": [
+      "assets/About.fcddf809.css"
+    ]
+  },
+  "_Authenticated.da906620.js": {
+    "file": "assets/Authenticated.da906620.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ApplicationLogo.31531ae0.js",
+      "_link.4bd505ab.js",
+      "_InertiaLink.70d82a1a.js"
+    ]
+  },
+  "_ApplicationLogo.31531ae0.js": {
+    "file": "assets/ApplicationLogo.31531ae0.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_InertiaLink.70d82a1a.js": {
+    "file": "assets/InertiaLink.70d82a1a.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_link.4bd505ab.js": {
+    "file": "assets/link.4bd505ab.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.svelte": {
+    "file": "assets/ConfirmPassword.563e0d58.js",
+    "src": "resources/js/Pages/Auth/ConfirmPassword.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Guest.fb39dc27.js",
+      "_ValidationErrors.d8466ffa.js",
+      "_useForm.310a098d.js",
+      "_ApplicationLogo.31531ae0.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "_Guest.fb39dc27.js": {
+    "file": "assets/Guest.fb39dc27.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ApplicationLogo.31531ae0.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "_ValidationErrors.d8466ffa.js": {
+    "file": "assets/ValidationErrors.d8466ffa.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_useForm.310a098d.js": {
+    "file": "assets/useForm.310a098d.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.svelte": {
+    "file": "assets/ForgotPassword.1806814d.js",
+    "src": "resources/js/Pages/Auth/ForgotPassword.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Guest.fb39dc27.js",
+      "_ValidationErrors.d8466ffa.js",
+      "_useForm.310a098d.js",
+      "_ApplicationLogo.31531ae0.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.svelte": {
+    "file": "assets/Login.aa3db6cd.js",
+    "src": "resources/js/Pages/Auth/Login.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Guest.fb39dc27.js",
+      "_ValidationErrors.d8466ffa.js",
+      "_useForm.310a098d.js",
+      "_InertiaLink.70d82a1a.js",
+      "_ApplicationLogo.31531ae0.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.svelte": {
+    "file": "assets/Register.07aaa65d.js",
+    "src": "resources/js/Pages/Auth/Register.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Guest.fb39dc27.js",
+      "_ValidationErrors.d8466ffa.js",
+      "_link.4bd505ab.js",
+      "_useForm.310a098d.js",
+      "_ApplicationLogo.31531ae0.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.svelte": {
+    "file": "assets/ResetPassword.9262a724.js",
+    "src": "resources/js/Pages/Auth/ResetPassword.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Guest.fb39dc27.js",
+      "_ValidationErrors.d8466ffa.js",
+      "_useForm.310a098d.js",
+      "_ApplicationLogo.31531ae0.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.svelte": {
+    "file": "assets/VerifyEmail.db9accd5.js",
+    "src": "resources/js/Pages/Auth/VerifyEmail.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Guest.fb39dc27.js",
+      "_useForm.310a098d.js",
+      "_InertiaLink.70d82a1a.js",
+      "_ApplicationLogo.31531ae0.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "resources/js/Pages/Categories/Index.svelte": {
+    "file": "assets/Index.771c5014.js",
+    "src": "resources/js/Pages/Categories/Index.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_LayoutBase.2bc4fc14.js",
+      "_link.4bd505ab.js",
+      "_useForm.310a098d.js"
+    ]
+  },
+  "_LayoutBase.2bc4fc14.js": {
+    "file": "assets/LayoutBase.2bc4fc14.js",
+    "imports": [
+      "resources/js/app.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "resources/js/Pages/Categories/Show.svelte": {
+    "file": "assets/Show.975c0343.js",
+    "src": "resources/js/Pages/Categories/Show.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_LayoutBase.2bc4fc14.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard.svelte": {
+    "file": "assets/Dashboard.2b98ec86.js",
+    "src": "resources/js/Pages/Dashboard.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.da906620.js",
+      "_ApplicationLogo.31531ae0.js",
+      "_link.4bd505ab.js",
+      "_InertiaLink.70d82a1a.js"
+    ]
+  },
+  "resources/js/Pages/Links/Index.svelte": {
+    "file": "assets/Index.6a880183.js",
+    "src": "resources/js/Pages/Links/Index.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.da906620.js",
+      "_link.4bd505ab.js",
+      "_useForm.310a098d.js",
+      "_ApplicationLogo.31531ae0.js",
+      "_InertiaLink.70d82a1a.js"
+    ]
+  },
+  "resources/js/Pages/Posts/Create.svelte": {
+    "file": "assets/Create.f1361991.js",
+    "src": "resources/js/Pages/Posts/Create.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_LayoutBase.2bc4fc14.js",
+      "_useForm.310a098d.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "resources/js/Pages/Posts/Index.svelte": {
+    "file": "assets/Index.d65dd520.js",
+    "src": "resources/js/Pages/Posts/Index.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_LayoutBase.2bc4fc14.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "resources/js/Pages/Posts/Show.svelte": {
+    "file": "assets/Show.2d68df31.js",
+    "src": "resources/js/Pages/Posts/Show.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_LayoutBase.2bc4fc14.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "resources/js/Pages/Welcome.svelte": {
+    "file": "assets/Welcome.67507477.js",
+    "src": "resources/js/Pages/Welcome.svelte",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_LayoutBase.2bc4fc14.js",
+      "_InertiaLink.70d82a1a.js",
+      "_link.4bd505ab.js"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.0357ca0a.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/Pages/About.css": {
+    "file": "assets/About.fcddf809.css",
+    "src": "resources/js/Pages/About.css"
+  }
+}
